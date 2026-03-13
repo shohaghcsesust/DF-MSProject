@@ -1,0 +1,20 @@
+Outline: Lecture 1 (Sat, 28 February 2026)
+------------------------------------------
+1. Course Outline & Discussion
+
+2. Different Security Domains/Branches
+	- Network/Cybersecurity
+	- Ethical Hacking
+	- Digital Forensics
+
+3. Lecture - Introduction to Digital Forensics
+	- Chapter 1 - Text Book (DF)
+
+4. Hands on # 1 - Disk Imaging Techniques
+
+5. Literature Review - Paper Readings 
+	- How to read a research paper
+	- Summary/Review 
+		- Research question/problem solved
+		- Strong and weak points
+		- Gap Analysis

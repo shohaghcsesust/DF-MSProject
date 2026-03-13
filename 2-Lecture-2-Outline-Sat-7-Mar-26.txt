@@ -1,0 +1,22 @@
+Review: Class 1 (Sat, 28 Feb 2026)
+----------------------------------
+1. Course Outline & Discussion
+2. Lecture - Introduction to Digital Forensics
+3. Hands-on Lab # 1 (Data Acquisition)
+ 
+
+Outline: Class 2 (Sat, 14 Mar 2026)
+-----------------------------------
+1. Online Class Test # 1 on Sat, 14th March 2026 on ELMS
+           a. Exam duration - 30 minutes
+           b. Syllabus - Chapter 1 of DF Textbook + Hands-on Lab 1 to 4 
+           c. Question type - Multiple choice, Matching, True/False, Essay type short questions (3/4 lines of text)
+
+2. Hands-on Lab # 1, 2 & 3 (Data Acquisition - Disk/RAM Imaging Techniques, Data Verification)
+
+3. Hands-on Lab # 4 (Introduction to Data Analysis in Autopsy)
+
+4. Finalize groups for Survey/Research Paper
+	- 6 groups each with 3 group members
+
+5. Lecture - Forensic Investigation Process (Chapter 2 - DF Textbook)
