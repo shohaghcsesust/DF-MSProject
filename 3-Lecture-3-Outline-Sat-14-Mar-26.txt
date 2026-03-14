@@ -1,0 +1,39 @@
+Review: Class 2 (Sat, 7 March 2026)
+-----------------------------------
+1. Hands-on Lab # 1, 2 & 3 (Data Acquisition - Disk/RAM Imaging Techniques, Data Verification)
+2. Hands-on Lab # 4 (Introduction to Data Analysis in Autopsy)
+3. Finalize groups for Survey/Research Paper
+	- 6 groups each with 3 group members
+4. Lecture - Forensic Investigation Process (Chapter 2 - DF Textbook - Up to slide # 13)
+
+
+Outline: Class 3 (Sat, 14 March 2026)
+-------------------------------------
+1. Online Class Test # 1 on Sat, 28 March 2026 in the class on ELMS
+           a. Exam duration - 30 minutes
+           b. Syllabus - Chapter 1 of DF Textbook + Hands-on Lab 1 to 4 
+           c. Question type - Multiple choice, Matching, True/False, Essay type short questions (3/4 lines of text)
+
+2. Finalize groups for Term Paper (Survey/Research Paper)
+ 
+3. Term Paper Specification (Group-wise Topic Assignment)
+ 
+4. Weekly Task (Group-wise): Next week's (1st class after the EID break - 28 March 2026) task: (1-page summary on the following points)
+	- Introduce the topic (What is it, related terms & issues to solve, what but not how) 
+	- Identify at least 3 research questions & 5 forensic tools with some basic features
+ 
+5. Lecture - Forensic Investigation Process (Chapter 2 - DF Textbook - From slide # 14 to rest)
+
+6. Review: Hands-on Lab # 1, 2 & 3 (Data Acquisition - Disk/RAM Imaging Techniques, Data Verification) & Lab # 4 (Autopsy)
+
+7. Paper Readings 1 - A Novel Digital Forensic Framework for Data Breach Investigation (2023)
+	- Data breach breakdown (DBB) phases
+	- Summary (pdf in the ELMS, upload single pdf)
+		- DFI phases, how related with NIST Special Publication 800-86
+		- Summary of SELECTED EXISTING FRAMEWORKS - CFFTPM, SRDFIM, IDFPM, and D4I (Table 1) 
+		- Proposed framework - difference with D4I, Phases (Fig. 3), 5WH mapping (Table 2)
+		- Summary of Case Study (Table 3, 4, 5, 6, 7, 8 & 9, Fig. 5)  
+		- Prepare 5 critical questions and put after the summary in the pdf 
+		- Deadline: Thu, 2 April 2026 by 11:59 pm (Submit using given link in ELMS)
+
+
