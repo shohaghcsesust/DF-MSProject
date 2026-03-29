@@ -1,0 +1,54 @@
+Review: Class 3 (Online - Sat, 14 March 2026)
+---------------------------------------------
+1. Finalize groups for Term Paper (Survey/Research Paper)
+2. Term Paper Specification (Group-wise Topic Assignment)
+3. Weekly Task (Group-wise): Next week's (1st class after the EID break - 28 March 2026) task: (1-page summary on the following points)
+	- Introduce the topic (What is it, related terms & issues to solve, what but not how) 
+	- Identify at least 3 research questions & 5 forensic tools with some basic features
+4. Lecture - Forensic Investigation Process (Chapter 2 - DF Textbook - From slide # 14 to rest)
+5. Paper Readings 1 - A Novel Digital Forensic Framework for Data Breach Investigation (2023)
+	- Data breach breakdown (DBB) phases
+	- Summary (pdf in the ELMS, upload single pdf)
+		- DFI phases, how related with NIST Special Publication 800-86
+		- Summary of SELECTED EXISTING FRAMEWORKS - CFFTPM, SRDFIM, IDFPM, and D4I (Table 1) 
+		- Proposed framework - difference with D4I, Phases (Fig. 3), 5WH mapping (Table 2)
+		- Summary of Case Study (Table 3, 4, 5, 6, 7, 8 & 9, Fig. 5)  
+		- Prepare 5 critical questions and put after the summary in the pdf 
+		- Deadline: Thu, 2 April 2026 by 11:59 pm (Submit using given link in ELMS)
+
+ 
+
+Outline: Class 4 (Online - Sat, 28 Mar 2026)
+--------------------------------------------
+1. Online Class Test # 1 on Sat, 28 March 2026 in the class on ELMS
+           a. Exam duration - 30 minutes
+           b. Syllabus - Chapter 1 of DF Textbook + Hands-on Lab 1 to 4 
+           c. Question type - Multiple choice, Matching, True/False, Essay type short questions (3/4 lines of text)
+
+2. Proposal submission (3 to 5 pages) (Group assignment) - Thu, 9 April 2026 (Upload in ELMS)
+	- Papers MUST be prepared using the Microsoft Word Template (ACM or IEEE publication format)
+	- A rough guideline is to include at least 5-10 peer-reviewed references, preferably published within last 5 years 
+	- Typical peer reviewed references include: ACM/IEEE/Springer/Elsevier literature, Internet RFCs.
+	- Contents
+		a) Abstract (you may revise later for final submission, if you want)
+		b) Introdution:
+			i) Motivation (why this research area is important)
+			ii) Summary of theoretical background (terms & concepts related to the subtopics)
+			iii) Specific research problem/Questions
+		c) Related works (Literature review) 
+			i) A Systematic Literature Review (SLR) (See paper readings-1)
+			ii) Read some related papers & summarize)
+		d) Methodology/Work plan for rest of the survey/review
+  
+	- Proposal presentation 
+		- 8-10 min (max) per group (Approx. 10 slides)
+		- Sat, 11 April 2026 – Last class before Mid Exam break during class time
+
+3. Discussion: Group-wise summary on the survey topic
+
+4. Class Assignment # 1 - RAM Imaging & Information Extraction (FTK, Dumpit & Bulk Extractor Viewer) 
+	Homework # 1 (Individual) - Deadline - Fri, 3 April 2026 by 11:59 pm (Submit pdf in ELMS)
+
+5. Discussion: Review on Paper Readings # 1
+
+6. Lecture - Computer Forensics (Chapter 5 - DF Textbook - Part I)
