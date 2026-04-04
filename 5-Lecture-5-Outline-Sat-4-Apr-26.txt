@@ -1,0 +1,38 @@
+Review: Class 4 (Sat, 28 March 2026)
+------------------------------------
+1. Online Class Test # 1 on Sat, 28 March 2026 in the class on ELMS
+2. Proposal submission (3 to 5 pages) (Group assignment) - Thu, 9 April 2026 by 11:59 pm (Upload in ELMS)
+	- Papers MUST be prepared using the Microsoft Word Template (ACM or IEEE publication format)
+	- A rough guideline is to include at least 5-10 peer-reviewed references, preferably published within last 5 years 
+	- Typical peer reviewed references include: ACM/IEEE/Springer/Elsevier literature, Internet RFCs.
+	- Contents (a. Abstract, b. Introdution, c. Related works & d. Methodology/Work plan for rest of the survey/review)
+3. Proposal presentation 
+		- 8-10 min (max) per group (Approx. 10 slides)
+		- Sat, 11 April 2026 – Last class before Mid Exam break during class time
+4. Discussion: Group-wise summary on the survey topic
+5. Class Assignment # 1 - RAM Imaging & Information Extraction (FTK, Dumpit & Bulk Extractor Viewer) 
+	Homework # 1 (Individual) - Deadline - Fri, 3 April 2026 by 11:59 pm (Submit pdf in ELMS)
+6. Discussion: Review on Paper Readings # 1
+
+
+
+
+Outline: Class 5 (Sat, 4 April 2026)
+------------------------------------
+1. Proposal submission (3 to 5 pages) (Group assignment) - Thu, 9 April 2026 by 11:59 pm (Upload in ELMS)
+   					& 
+   Presentation on Survey paper proposal on Sat, 11 April 2026 (during class time)
+	- Requirements:
+		- 8 to 10 min (Maximum) per group
+		- 10 to 15 slides (approx.)
+		- Each group member must participate
+	- Evaluation Rubrics (5 x 4 = 20)
+		- Non-verbal (Comfort & Confidence)
+		- Verbal (Clarity & Volume)
+		- Content (Information/Knowledge, Organization/Visuals/Graphics)
+
+2. Lecture - Computer Forensics (Part I - rest & Part II, Chapter 5 - DF Textbook)
+
+3. Hands-on Lab # 5 (Digital Forensic using Autopsy)
+
+4. Paper Readings # 2 - Forensic Recovery of File System Metadata for Digital Forensic Investigation (2022)
